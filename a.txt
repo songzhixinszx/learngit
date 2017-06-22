@@ -1,6 +1,2 @@
-a
-bbb
-ggg
-ooo
-eee
-szx
+test1
+test2
